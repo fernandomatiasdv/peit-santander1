@@ -5,3 +5,39 @@
     width: 270px;
     background-color: rgb(215, 243, 243);
 }
+  
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+ 
+.primeraletra{
+    padding: 10px;
+    font-family: 'Work Sans', sans-serif;
+}
+.imagen{
+    height: 50px;
+    width: 50px;
+    background-image: url(https://www.santander.com.ar/banco/wcm/connect/c8f0be9e-ab54-4933-99d4-ad7c4a7f70fb/Rex_Logo_Nuevo-01.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c8f0be9e-ab54-4933-99d4-ad7c4a7f70fb-ngixC8O);
+    background-size: cover;
+}
+.segundaletra{
+    font-size: small;
+}
+  
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+ 
+.primeraletra{
+    padding: 10px;
+    font-family: 'Work Sans', sans-serif;
+}
+.imagen{
+    height: 50px;
+    width: 50px;
+    background-image: url(https://www.santander.com.ar/banco/wcm/connect/c8f0be9e-ab54-4933-99d4-ad7c4a7f70fb/Rex_Logo_Nuevo-01.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-c8f0be9e-ab54-4933-99d4-ad7c4a7f70fb-ngixC8O);
+    background-size: cover;
+}
+.segundaletra{
+    font-size: small;
+}
+.distancia{
+    margin-left: 15px;
+    color:red;
+}
